@@ -10,3 +10,7 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+.labelRow {
+  text-align: float;
+}
